@@ -14,9 +14,10 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://www.linkedin.com/posts/musial-dev_labdionattyornot-activity-7204349740967202816-9KXP?utm_source=share&utm_medium=member_desktop)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos. 
 As Inteligências Artificiais (IAs) representam um recurso valioso no campo da educação, ampliando horizontes e transformando a maneira como aprendemos.
 Essas experiências não apenas prendem a atenção, mas também solidificam os conceitos de forma mais eficaz. 
+
